@@ -1,4 +1,8 @@
-$(function(){
+// $(function(){
 
+//   $(document).ready(function(){
+//     alert("hello");
+//   });
+  
 
-});
+// });
